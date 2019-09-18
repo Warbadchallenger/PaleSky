@@ -1,0 +1,335 @@
+#//(Omega Platform Version 1.0.0.1 by Visions Corp) this software is free and can be changed or done anything with and used the help of lots of people to make, you gals and guys are really awesome and this software is designed to be augmented into GCC and expand upon mathematical division we do on a daily basis. Warbadchallenger, CEO, Visions Corp. 2019/05/24 5:49 MDT//#
+
+#include<stdio.h> 
+#include<math.h>
+
+int omegamath(int, int, int);
+
+int main(){
+
+int primenumber, primenumberj, alphasum, omegamath;
+
+printf("\n Please Enter two integer values \n");
+  scanf("%d %d",&primenumber, &primenumberj);
+omegamath = omegaaddition;
+alphasum = omegaaddition(primenumber, primenumberj);
+printf("\n omegaaddition of %d and %d is = %d \n", primenumber, primenumberj, alphasum);
+return 0;
+}
+
+
+
+int omegamath;
+{
+
+
+int alphasum;
+
+
+int gamma;
+int lambda; 
+int numomicron;
+int alpha1001;
+int alpha2002;
+int zulu1000;
+int omega;
+int zeta1;
+int first;
+int second;
+int pi1000;
+int quotient;
+int nextdecimal;
+int decimalpoint;
+int nextdecimalpoint;
+int blahblah;
+int u;
+int k; 
+int dividend;
+int answer;
+int m;
+int divisor;
+int udividend;
+int carrymean;
+int meanie;
+int xu1000;
+int xu2000;
+int solution;
+int saturation;
+int conclusion;
+int omegaremainder;
+int omegapoint;
+int alpharemainder;
+int number;
+int addition;
+int alpha;
+int alphaprime;
+int primenumber;
+int alphapoint;
+int ninetens;
+int alphareach;
+int nextforwardpoint;
+int alphabeta;
+int xiphos;
+int omegasum;
+int omegaaddition;
+int alphasum;
+int solution9000;
+int hundred;
+int hoplon;
+int phalanx;
+int esotericeharmonia;
+float xu1001;
+float alpha1;
+float alpha2;
+int divide;
+int add;
+int ten;
+int primenumberj;
+int mutechplant;
+int thecrux;
+int thecrown;
+int nasonsdefiance;
+//scanf("%d%d", &first, &second);
+//printf("enter .1 and then space, and then a number between .1 and .9 to divide probably\n");
+mutechplant = 0.000000000000000000001;
+nasonsdefiance = 0.000000000000000000001;
+thecrux = mutechplant * 10;
+thecrown = thecrux;
+thecrown = 0.0;
+///////solution = alphasum;
+divide = lambda / lambda;
+///////u =first;
+/////k = second;
+//dividend = u;
+//divisor = k;
+//m = quotient;
+xu1001 <.001;
+xu1001 > .00000001;
+omegaremainder = alpharemainder / carrymean; 
+//omegaremainder = megaremainder = carrymean / omegaremainder;
+//omegaremainder =
+//omegasum = omegaremainder - carrymean;
+omegasum = hoplon;
+xu1001 = 0.00000000000000000001;
+xu1000 = 0.00000000000000000001;
+xu2000 = 0.00000000000000000001;
+///////////omegasum = hoplon + primenumber;
+solution9000 = alphasum / 10;
+//udividend <= decimalpoint;
+//nextdecimalpoint = decimalpoint * 0.1;
+primenumber = 0 && 1 && 2 && 3 && 4 && 5 && 6 && 7 && 8 && 9;
+ten = 0 && 1 && 2 && 3 && 4 && 5 && 6 &&7 && 8 && 9;
+//quotient = answer;
+//answer = u / k;
+//quotient= dividend / divisor;
+answer = lambda / lambda;
+lambda = u && k;
+lambda = xu1000;
+lambda = xu2000;
+xu1000 = carrymean;
+xu2000 = meanie;
+alpharemainder = carrymean / meanie;
+quotient = lambda / lambda;
+alpha = number;
+alphaprime = primenumber;
+addition = u + k;
+omega = 0;
+zeta1 >=0;
+alpha1001 = .0;
+omegapoint = xu2000;
+ninetens = 9;
+alphapoint = 0.0;
+add = addition;
+primenumberj = k;
+nextforwardpoint = alphaprime > 9;
+//////
+alphasum = primenumber + primenumberj;
+number = u;
+number = k;
+number = m;
+alpha1 = 0.0;
+numomicron > omega;
+alpha2002 =.00;
+alpha2 = .00;
+zulu1000 > 0;
+//first = gamma;
+//second = gamma;
+carrymean = carrymean + xu1000;
+meanie = meanie + xu1000;
+carrymean = xu1000;
+meanie = xu2000;
+xu1000 = lambda;
+xu2000 = lambda;
+carrymean = xu1000 + xu1000;
+meanie = xu1000 + xu1000;
+u = xu1000;
+k = xu1000;
+m = xu1000;
+omegapoint = carrymean / omegaremainder;
+///////solution = omegasum;
+saturation = solution && solution;
+conclusion = omegapoint;
+conclusion = saturation;
+u = carrymean;
+k = meanie;
+m = omegapoint;
+////////primenumberj = 0 && 1 && 2 && 3 && 4 && 5 && 6 && 7 && 8 && 9;
+u = xu1000;
+k = xu2000;
+alphabeta = alphaprime - alphaprime - xiphos;
+//////////////alphasum = omegasum = hoplon;
+hoplon = alphasum / 10;
+xiphos = 0.00000000000000000001;
+hundred = 10 * 1;
+#// Constants pi1000 is a substitute for the ratio of a diameter to its circumference//#
+phalanx = omegasum / 10;
+esotericeharmonia = phalanx;
+pi1000 = 3.167903206360775;
+//////alphasum = ;
+solution = primenumber;
+//////add = primenumber + primenumberj;
+/////add = u +printf("\n Multiplication of %d and %d is = %d \n", a, b, Multi); k;
+////////esotericeharmonia = phalanx;
+alphasum = solution;
+for(primenumber <= 999999999999999999.99999999999999999999; primenumber >= 0.0; primenumber = omegasum + primenumber);
+for(primenumber <= 999999999999999999; primenumber >= 0; primenumber = primenumber + primenumberj);
+for(primenumberj <= 999999999999999999; primenumberj <= 0; primenumberj = primenumberj = alphasum);
+
+for(primenumberj <= 999999999999999999.99999999999999999999; primenumberj >= 0.0; primenumberj = primenumberj && omegaaddition);
+for(alphapoint < 0.00000000000000000001; alphapoint >= 0.000000000000000000001; alphapoint = alphapoint = 0.0);
+/////////for(alphaprime > alphabeta; alphabeta < alphareach; alphaprime = alphabeta >= 0.0);
+//////omegaaddition = primenumber + primenumberj;
+//////for(ten >= 0.0; ten <= 9; ten = ten = alphapoint);
+
+
+////////for( u >= 0; u <= 999999999999999999.99999999999999999999; u = k = 0);
+
+////////for( k >= 0; k <= 999999999999999999.99999999999999999999; k = u = m);
+////////for(alphareach = 0; alphareach >= 999999999999999999.99999999999999999999; alphareach = alphaprime - alphaprime); 
+
+////////for( m >= -999999999999999999.99999999999999999999; m <= 999999999999999999.99999999999999999999; m = u = k);
+
+////////for(conclusion <= 999999999999999999.99999999999999999999; conclusion = 0.00000000000000000001; conclusion = conclusion >= 0);
+
+///for(numomicron <= 999999999999999999; numomicron > omega; numomicron = numomicron >= xu1001);
+///////////////////////for(lambda <= 999999999999999999.99999999999999999999; lambda >= -999999999999999999.99999999999999999999; lambda = lambda >= 0);
+//for(gamma >= 0; gamma <= 999999999999999999; gamma = gamma = conclusion);
+/////for(xu1001 >= 0.00000000000000000001; xu1001 <= 999999999999999999.99999999999999999999; xu1001 = xu1001 + gamma)
+
+////////for(alphaprime = ninetens; alphaprime >= alphapoint; alphapoint = 9 + 1); 
+
+
+//for(alpha1001 >= 0.0; alpha1001 <= 0.9; alpha1001 = alpha1001 +- xu1001); 
+
+//for(alpha2002 >= 0.00; alpha2002 <=.09; alpha2002 = alpha2 +- xu1001);
+
+//for(decimalpoint <= 999999999999999999.99999999999999999999; decimalpoint >= .00000000000000000000; decimalpoint = decimalpoint >=xu1001);
+//for(carrymean <= xu1001; carrymean >= xu1001; carrymean = carrymean >= zulu1000);
+//for(meanie <= xu1001; meanie >= xu1001; meanie = meanie >= zulu1000);
+//for(carrymean = xu1000; carrymean = xu1001; carrymean = carrymean + xu1000); 
+//for(meanie = xu1000; meanie = xu1000; meanie = meanie = xu1000);
+//carrymean <= meanie;
+
+//for(carrymean = lambda; carrymean = xu1000; carrymean = xu1000 + xu1000);
+//for(meanie = lambda; meanie = xu1000; meanie = xu1000 + xu1000);
+//for(carrymean <= meanie; carrymean >= meanie; carrymean = carrymean / meanie);
+//for(meanie <= carrymean; meanie >= carrymean; meanie = carrymean / meanie);
+
+//if(primenumber){
+//do(primenumber = ten);
+//while(ten = 0 && 1 && 2 && 3 && 4 && 5 && 6 && 7 && 8 && 9);
+//}
+
+///////if(primenumber && primenumberj = primenumber + primenumberj){
+///////do(omegaaddition);
+///////while(omegaaddition = add);
+//////}
+//////printf("Enter two integers\n");
+ ////  scanf("%d%d", &primenumber, &primenumberj);
+
+
+
+
+
+if(omegaaddition){
+
+do(primenumber + primenumberj);
+while(solution = alphasum <= 9);
+
+}
+}
+
+//if(add){
+//do(alphaprime + primenumberj);
+//while(alphaprime <= 9);
+//}
+
+//if(alphaprime > 9){
+//do(alphaprime = nextforwardpoint);
+//while(tens - 9);
+//}
+
+////////if(alphasum <= 9){
+////do(solution);
+////while(solution = primenumber);
+////}
+//else(alphasum > 9);
+//do(hoplon);
+//while(hoplon = omegasum);
+
+
+
+///////if(alphasum > 9){
+//do(hoplon);
+
+//while(omegasum = hoplon);
+//}
+//}
+
+//if(alphasum){
+//do(alphasum / 10);
+//while(omegasum = alphasum / 10);
+//}
+//if(add){
+//do(tens = primenumber);
+//while(primenumber + primenumberj);
+//}
+//if(omegasum > 9){
+//do(nextforwardpoint);
+//while(omegasum = alphaprime);
+//}
+
+/////////if(omegasum > 9){
+//do( 9 + 1);
+//while(phalanx);
+//}
+
+/////////if(omegasum <= 9){
+//do(omegasum = solution);
+//while(solution = primenumber);
+//}
+/////////if(phalanx <= 9){
+
+//do(solution);
+//while(solution = primenumber);
+//}
+////////if(phalanx > 9){
+//do(phalanx);
+//while(omegasum);
+//}
+//if(alphasum > 9){
+//do(ten > 9);
+//while(hundred = omegasum); 
+//}
+
+
+////////omegaaddition = primenumber + primenumberj;
+
+int omegamath(int primenumber, int primenumberj)
+{
+int alphasum;
+alphasum = alphasum;
+return alphasum;
+}
+
+return alphasum;
